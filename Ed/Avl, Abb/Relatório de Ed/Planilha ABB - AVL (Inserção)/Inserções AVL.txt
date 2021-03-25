@@ -1,0 +1,60 @@
+i 50 cb300 honda 2000
+comparacoes0
+i 28 cb300 honda 2000
+comparacoes2
+i 29 cb300 honda 2000
+comparacoes8
+i 30 cb300 honda 2000
+comparacoes4
+i 53 cb300 honda 2000
+comparacoes4
+i 70 cb300 honda 2000
+comparacoes8
+i 22 cb300 honda 2000
+comparacoes6
+i 80 cb300 honda 2000
+comparacoes8
+i 26 cb300 honda 2000
+comparacoes12
+i 4 cb300 honda 2000 
+comparacoes10
+i 6 cb300 honda 2000 
+comparacoes12
+i 63 cb300 honda 2000
+comparacoes6
+i 67 cb300 honda 2000
+comparacoes10
+i 51 cb300 honda 2000
+comparacoes10
+i 8 cb300 honda 2000
+comparacoes8
+i 55 cb300 honda 2000
+comparacoes6
+i 17 cb300 honda 2000
+comparacoes14
+i 54 cb300 honda 2000
+comparacoes8
+i 61 cb300 honda 2000
+comparacoes8
+i 2 cb300 honda 2000
+comparacoes8
+i 13 cb300 honda 2000
+comparacoes14
+i 77 cb300 honda 2000
+comparacoes8
+i 68 cb300 honda 2000
+comparacoes8
+i 20 cb300 honda 2000
+comparacoes8
+i 10 cb300 honda 2000
+comparacoes14
+i 75 cb300 honda 2000
+comparacoes12
+i 81 cb300 honda 2000
+comparacoes10
+i 49 cb300 honda 2000
+comparacoes10
+i 39 cb300 honda 2000
+comparacoes16
+i 64 cb300 honda 2000
+comparacoes8
